@@ -4,8 +4,8 @@
     --red: rgb(205, 0, 60);
 }
 .small {
-    font-size: 13px;
-    line-height: 24px;
+    font-size: 14px;
+    line-height: 25px;
 }
 body {
     font-family: 'Montserrat', sans-serif;
@@ -147,8 +147,8 @@ header {
     /* font-variant-numeric: tabular-nums; */
 }
 .tab-content .small {
-    font-size: 13px;
-    line-height: 24px;
+    font-size: 14px;
+    line-height: 25px;
     display: flex;
     justify-content: flex-start;
     width: 100%;
@@ -223,6 +223,7 @@ header {
         }
         .number {
             font-size: 44px;
+            font-weight: 700;
         }
         .list {
             max-width: 508x;
@@ -230,11 +231,11 @@ header {
             flex-direction: column;
             text-align: left;
             font-size: 18px;
-            font-weight: 200;
+            font-weight: 400;
             line-height: 28px;
             .bigger {
                 font-size: 24px;
-                font-weight: 600;
+                font-weight: 700;
             }
             a {
                 color: var(--dark-blue);
