@@ -4,8 +4,8 @@
     --red: rgb(205, 0, 60);
 }
 .small {
-    font-size: 14px;
-    line-height: 25px;
+    font-size: 16px;
+    line-height: 26px;
 }
 body {
     font-family: 'Montserrat', sans-serif;
@@ -147,8 +147,8 @@ header {
     /* font-variant-numeric: tabular-nums; */
 }
 .tab-content .small {
-    font-size: 14px;
-    line-height: 25px;
+    font-size: 16px;
+    line-height: 26px;
     display: flex;
     justify-content: flex-start;
     width: 100%;
